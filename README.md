@@ -9,6 +9,8 @@
 
 - 🔭 I have worked on [Car Price prediction Machine Learning Model](https://github.com/Umer-c/ML-Data-Preprocessing)
 
+- 🔭 I have worked on [Continous Integration & Deployment](https://github.com/Umer-c/bbquote)
+
 - 👯 I have collaborated on [Machine Learning Prediction Model](https://github.com/Umer-c/my-prediction-website)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Umer-c](https://github.com/Umer-c)
