@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umer Asghar</h1>
-<h3 align="center">A passionate data enthusiastic from Berlin, Germany</h3>
+<h3 align="center">Passionate about Tech from Berlin, Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umer-c&label=Profile%20views&color=0e75b6&style=flat" alt="umer-c" /> </p>
 
