@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about Tech from Berlin, Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umer-c&label=Profile%20views&color=0e75b6&style=flat" alt="umer-c" /> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umer-c" alt="umer-c" /></a> </p>
 
 - 🔭 I have worked on [Web Scrapping & API](https://github.com/Umer-c/Quote-Scrapping-and-FastAPI)
 
