@@ -7,7 +7,7 @@
 <!-- Badge Section -->
 <p align="left">
 <a href="https://www.credly.com/badges/16216d71-b1ae-466b-b871-5c05e7400c61/public_url" target="_blank">
-  <img src="lfcs-linux-foundation-certified-systems-administrator.2.png" alt="Linux System Administration Badge" width="100" height="200" />
+  <img src="lfcs-linux-foundation-certified-systems-administrator.2.png" alt="Linux System Administration Badge" width="200" height="200" />
 </a>
 </p>
 
