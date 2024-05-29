@@ -5,14 +5,14 @@
 <p align="left">
 <a href="https://www.credly.com/badges/16216d71-b1ae-466b-b871-5c05e7400c61/public_url" target="_blank">
   <img src="lfcs-linux-foundation-certified-systems-administrator.2.png" alt="Linux System Administration Badge" width="120" height="125" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.credly.com/badges/c15b682e-baa1-49f2-acda-235eb5e0b204/public_url" target="_blank">
   <img src="aws-certified-solutions-architect-associate.png" alt="AWS Solution Architect Badge" width="120" height="125" />
 </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umer-c&label=Profile%20views&color=0e75b6&style=flat" alt="umer-c" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umer-c" alt="umer-c" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umer-c&label=Profile%20views&color=0e75b6&style=flat" alt=" umer-c" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umer-c" alt=" umer-c" /></a> </p>
 
 - 🔭 I have worked on [Web Scraping & API](https://github.com/Umer-c/Quote-Scrapping-and-FastAPI)
 
@@ -32,7 +32,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/umer-asghar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umer-asghar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/umer-asghar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" umer-asghar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,8 +47,8 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umer-c&show_icons=true&locale=en&layout=compact" alt="umer-c" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umer-c&show_icons=true&locale=en&layout=compact" alt=" umer-c" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umer-c&show_icons=true&locale=en" alt="umer-c" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umer-c&show_icons=true&locale=en" alt=" umer-c" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umer-c&" alt="umer-c" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umer-c&" alt=" umer-c" /></p>
