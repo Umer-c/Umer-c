@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Umer Asghar</h1>
 <h3 align="center">Passionate about Tech from Berlin, Germany</h3>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="16216d71-b1ae-466b-b871-5c05e7400c61" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umer-c&label=Profile%20views&color=0e75b6&style=flat" alt="umer-c" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umer-c" alt="umer-c" /></a> </p>
 
