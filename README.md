@@ -4,6 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umer-c&label=Profile%20views&color=0e75b6&style=flat" alt="umer-c" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umer-c" alt="umer-c" /></a> </p>
 
+<!-- Badge Section -->
+<p align="left">
+<a href="https://www.credly.com/badges/16216d71-b1ae-466b-b871-5c05e7400c61/public_url" target="_blank">
+  <img src="lfcs-linux-foundation-certified-systems-administrator.2.png" alt="Linux System Administration Badge" width="150" height="270" />
+</a>
+</p>
+
 - 🔭 I have worked on [Web Scrapping & API](https://github.com/Umer-c/Quote-Scrapping-and-FastAPI)
 
 - 🔭 I have worked on [Car Price prediction Machine Learning Model](https://github.com/Umer-c/ML-Data-Preprocessing)
@@ -33,4 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umer-c&show_icons=true&locale=en" alt="umer-c" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umer-c&" alt="umer-c" /></p>
-
