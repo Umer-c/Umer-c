@@ -3,7 +3,7 @@
 
 <!-- Badge Section -->
 <p align="left">
-<a href="https://www.credly.com/badges/16216d71-b1ae-466b-b871-5c05e7400c61/public_url" target="blank">
+<a href="https://www.credly.com/badges/16216d71-b1ae-466b-b871-5c05e7400c61/public_url" target="_blank">
   <img src="lfcs-linux-foundation-certified-systems-administrator.2.png" alt="Linux System Administration Badge" width="120" height="125" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.credly.com/badges/c15b682e-baa1-49f2-acda-235eb5e0b204/public_url" target="_blank">
