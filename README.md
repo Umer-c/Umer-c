@@ -15,7 +15,6 @@
 </p>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5eb923aa-5382-42ef-b2e0-5d3eec0ac54a" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umer-c&label=Profile%20views&color=0e75b6&style=flat" alt=" umer-c" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umer-c" alt=" umer-c" /></a> </p>
